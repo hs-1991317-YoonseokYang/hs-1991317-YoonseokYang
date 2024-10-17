@@ -58,6 +58,7 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
   <a href="https://solved.ac/yoonseok00">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonseok00" alt="Solved.ac 프로필" />
       </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=yoonseok00&theme=warm"/>
 </div>
   </body>
 </html>
