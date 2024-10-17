@@ -3,7 +3,7 @@
     
   </head>
   <body>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20I'm%20Yoonseok%20%20৻(≧ᗜ≦৻)&fontSize=40&fontColor=103082" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Yoonseok%20%20৻(≧ᗜ≦৻)&fontSize=40&fontColor=101052" />
     <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   
