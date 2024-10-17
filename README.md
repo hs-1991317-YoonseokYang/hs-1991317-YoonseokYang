@@ -55,7 +55,9 @@ https://velog.io/@oka1313/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%
 </div>
 
 <div align="center">
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonseok00)](https://solved.ac/yoonseok00)
+  <a href="https://solved.ac/yoonseok00">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonseok00" alt="Solved.ac 프로필" />
+      </a>
 </div>
   </body>
 </html>
