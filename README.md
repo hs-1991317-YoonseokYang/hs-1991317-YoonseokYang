@@ -1,12 +1,12 @@
 ![Header Image](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=🐢Hello,%20I'm%20Yoonseok🏝️&fontSize=40&fontColor=101052)
 
 ### ✨ Tech Stack ✨
-(기술 스택 아이콘을 추가하려면 아래에 텍스트 또는 이미지를 삽입하세요)
+
 
 ---
 
 ### 📚 Studying 📚
-(현재 공부 중인 기술이나 내용을 여기에 추가하세요)
+
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/hs-1991317-YoonseokYang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
